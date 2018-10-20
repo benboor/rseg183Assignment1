@@ -1,0 +1,21 @@
+
+
+Deliverables:
+
+  What problem are we addressing?
+    Is a human present in an image as a service.
+
+  Stakeholders?
+    Supply chain and logistics robotics companies, various IOT products
+
+  Context:
+    Often times battery is a limiting constraint in robotic systems. By outsourcing the compute for human detection
+    we are increasing the operational deployment of a robot which uses our service.
+
+  Assesment:
+    We are building a classifier, so we will use the AUROC score of our training set to evaluate performance.
+
+  Demo:
+    We will allow persons in our class to use our 'detect a human as a service' api.
+
+ 
